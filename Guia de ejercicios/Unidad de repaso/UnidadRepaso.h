@@ -15,11 +15,13 @@
 #define VALOR_ABSOLUTO(x) (((x) >= 0) ? (x) : -(x))
 #define CUADRADO(x) (x)*(x)
 #define CUBO(x) CUADRADO(x)*(x)
+#define MAX(A,B) ((A) > (B) ? (A) : (B))
 
 #define ES_MAYUSCULA(x) ((x)>='A'&&(x)<='Z')
 #define ES_MINUSCULA(x) ((x)>='a'&&(x)<='z')
 #define ES_NUMERO(x) ((x)>='0'&&(x)<='9')
 #define ES_LETRA(x) ((x)>='a'&&(x)<='z')||((x)>='A'&&(x)<='Z')
+#define ES_BLANCO(x) ((x)==' ')
 
 #define FACTORIAL(x) ({                 \
     int fact = 1;                       \

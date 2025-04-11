@@ -5,7 +5,7 @@ int main()
     float x = 3.05, a = 13;
     double y = 3.1415926535897932;
     int m = 5, n = 13;
-//    char c = '5';
+    char c = ' ';
 //    printf("La parte entera de %.2f es : %d\n", x, PARTE_ENTERA(x));
 //    printf("La parte decimal de %.2f es : %.2f\n", x, PARTE_DECIMAL(x));
 //    printf("El redondeo de %.2f es : %d\n", x, REDONDEO(x));
@@ -14,6 +14,8 @@ int main()
 //    printf("La variable c es minuscula? %d\n", ES_MINUSCULA(c));
 //    printf("La variable c es numero? %d\n", ES_NUMERO(c));
 //    printf("La variable c es letra? %d\n", ES_LETRA(c));
+//    printf("La variable c es espacio en blanco? %d\n", ES_BLANCO(c));
+//    printf("El maximo numero entre %d y %d es: %d\n", m, n, MAX(m,n));
 //    printf("La factorial de %d es: %d\n", a, FACTORIAL(a));
 //    printf("La cuadrado de %d es: %d\n", a, CUADRADO(a));
 //    printf("La cubo de %d es: %d\n", a, CUBO(a));
