@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744384824 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\unidad de repaso\main.c
+	"UnidadRepaso.h"
+
+1744383083 c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\unidad de repaso\unidadrepaso.h
+	<stdio.h>
+	<stdlib.h>
+
+1744384599 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\unidad de repaso\unidadrepaso.c
+	"UnidadRepaso.h"
+
