@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1745457539 source:c:\users\pablo\onedrive\escritorio\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clase_3\clase_3.c
+	"Clase_3.h"
+
+1745456115 c:\users\pablo\onedrive\escritorio\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clase_3\clase_3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1745457553 source:c:\users\pablo\onedrive\escritorio\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clase_3\main.c
+	"Clase_3.h"
+
+1745694708 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clases\clase_3\main.c
+	"Clase_3.h"
+
+1745693832 c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clases\clase_3\clase_3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1745694914 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\clases\clase_3\clase_3.c
+	"Clase_3.h"
+

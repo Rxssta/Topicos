@@ -20,8 +20,10 @@
 #define ES_MAYUSCULA(x) ((x)>='A'&&(x)<='Z')
 #define ES_MINUSCULA(x) ((x)>='a'&&(x)<='z')
 #define ES_NUMERO(x) ((x)>='0'&&(x)<='9')
-#define ES_LETRA(x) ((x)>='a'&&(x)<='z')||((x)>='A'&&(x)<='Z')
+#define ES_LETRA(x) (((x)>='a'&&(x)<='z')||((x)>='A'&&(x)<='Z'))
 #define ES_BLANCO(x) ((x)==' ')
+
+#define MAYUSCULA(x) (ES_MINUSCULA(x)?(x) - 'a' + 'A':(x))
 
 #define FACTORIAL(x) ({                 \
     int fact = 1;                       \

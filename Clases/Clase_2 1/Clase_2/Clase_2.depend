@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1744851548 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\clases\clase_2\clase_2.c
+	"Clase_2.h"
+
+1744851555 source:c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\clases\clase_2\main.c
+	"Clase_2.h"
+
+1744851176 c:\users\pablo\desktop\tpyproyectos\unlam\ing. en informatica\plan_2023\topicos de programacion\2025\guia de ejercicios\clases\clase_2\clase_2.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1745448563 source:c:\users\pablo\onedrive\escritorio\clase_2-1\clase_2\main.c
+	"Clase_2.h"
+
+1745448236 c:\users\pablo\onedrive\escritorio\clase_2-1\clase_2\clase_2.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1745448563 source:c:\users\pablo\onedrive\escritorio\clase_2-1\clase_2\clase_2.c
+	"Clase_2.h"
+
